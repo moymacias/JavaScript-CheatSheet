@@ -4,7 +4,7 @@
 /* ----------------------------------------Ejemplo 1------------------------------------------ */
 const myFunction = () => {
   alerT("Hola mundo");
-  // ⚠️ El alert esta mal escrito por lo que nos arrojara un error
+  //⚠️ El alert esta mal escrito por lo que nos arrojara un error
 };
 
 try {
@@ -14,9 +14,9 @@ try {
 }
 
 console.log("Continuamor con la ejecucion...");
-// ⚠️ Error caputurado: ReferenceError:
-// ⚠️ alerT is not defined
-// ✅ Continuamos con la ejecucion
+//⚠️ Error caputurado: ReferenceError:
+//⚠️ alerT is not defined
+//✅ Continuamos con la ejecucion
 /* ------------------------------------------------------------------------------------------- */
 
 /* ----------------------------------------Ejemplo 2------------------------------------------ */
